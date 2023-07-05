@@ -1,0 +1,7 @@
+<root>
+    <element1 attribute="value1">Text 1</element1>
+    <element2 attribute="value2">Different Text</element2>
+    <element3 attribute="value3">Text 3</element3>
+    <element4 attribute="value4"></element4>
+    <element5 attribute="value5"/>
+</root>
